@@ -4,7 +4,7 @@ export const home = {
     subtitle: "Junior devops from france",
     email: "yacefsouleyman@gmail.com",
     resumeLink:
-        "https://github.com/jayhawk24/developerFolio/blob/9b4c2257ec56b4121a4a82545755cd1f610f7659/Anubhav's%20Resume.pdf",
+        "https://github.com/souleyman-NSM",
     desc: "Franchement je veux réussir"
 };
 
