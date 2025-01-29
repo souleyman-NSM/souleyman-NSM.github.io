@@ -1,11 +1,11 @@
 export const home = {
-    domain: "jayhawk.github.io",
-    name: "Anubhav",
+    domain: "souleyman-NSM.github.io",
+    name: "Souleyman",
     subtitle: "A Freelance Full-stack Engineer from India.",
-    email: "anubhavthrilling24@gmail.com",
+    email: "yacefsouleyman@gmail.com",
     resumeLink:
         "https://github.com/jayhawk24/developerFolio/blob/9b4c2257ec56b4121a4a82545755cd1f610f7659/Anubhav's%20Resume.pdf",
-    desc: "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
+    desc: "Franchement je veux réussir"
 };
 
 export const socials = {
