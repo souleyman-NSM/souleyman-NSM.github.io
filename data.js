@@ -12,6 +12,7 @@ export const socials = {
     // Only usernames.
     twitter: "soulax",
     github: "soulax",
+    instagram: "__souleyman__"
 };
 
 export const about = {
