@@ -1,11 +1,11 @@
 export const home = {
-    domain: "jayhawk.github.io",
-    name: "Anubhav",
-    subtitle: "A Freelance Full-stack Engineer from India.",
-    email: "anubhavthrilling24@gmail.com",
+    domain: "souleyman-NSM.github.io",
+    name: "Souleyman",
+    subtitle: "Junior devops from france",
+    email: "yacefsouleyman@gmail.com",
     resumeLink:
-        "https://github.com/jayhawk24/developerFolio/blob/9b4c2257ec56b4121a4a82545755cd1f610f7659/Anubhav's%20Resume.pdf",
-    desc: "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
+        "https://github.com/souleyman-NSM",
+    desc: "Franchement je veux réussir"
 };
 
 export const socials = {
@@ -17,8 +17,8 @@ export const socials = {
 
 export const about = {
     aboutMe:
-        "🙏 Namaste, I am Anubhav Gupta from Varanasi, India I am a Full Stack Developer at Steinn Labs. Apart from coding, there are a lot of activities I love to do like...",
-    hobbies: ["Basketball", "Chess", "Trekking", "Swimming"],
+        "Salem wa aleikoum, I am Souleyman Gupta from Varanasi, India I am a Full Stack Developer at Gigwalla. Apart from coding, there are a lot of activities I love to do like...",
+    hobbies: ["Basketball", "Chess", "Hiking", "Swimming"],
     quote: "Write code that changes Lives...",
     skills: [
         "nextjs",
