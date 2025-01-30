@@ -2,6 +2,7 @@
   "name": "next",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://souleyman-NSM.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
