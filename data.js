@@ -1,11 +1,10 @@
 export const home = {
     domain: "souleyman-NSM.github.io",
-    name: "Souleyman",
-    subtitle: "Junior devops from france",
+    name: "Souleyman Yacef",
+    subtitles: "Ingénieur DevOps & Cloud | FullStack Developer",
     email: "yacefsouleyman@gmail.com",
-    resumeLink:
-        "https://github.com/souleyman-NSM",
-    desc: "Franchement je veux réussir"
+    resumeLink: "https://github.com/souleyman-NSM/souleyman-NSM.github.io/blob/main/CV.pdf",
+    descs: "Passionné par le Cloud et le DevSecOps toujours en quête d'innovation."
 };
 
 export const socials = {

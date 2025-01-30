@@ -18,7 +18,7 @@ export default function Main() {
                         Hello, <img src="assets/hi.png" alt="" />
                     </p>
                     <h1>I'm {home.name}</h1>
-                    <h5>{home.subtitle}</h5>
+                    <h5>{home.subtitles}</h5>
                     <a
                         href={'mailto:' + home.email}
                         target="_blank"
@@ -45,7 +45,7 @@ export default function Main() {
             <div className="banner">
                 <img src="assets/undraw_coding_6mjf.svg" alt="illustration" />
                 <p>
-                    {home.desc}
+                    {home.descs}
                     <br />
                     <button>
                         <a
