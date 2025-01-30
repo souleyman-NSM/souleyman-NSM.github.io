@@ -17,7 +17,7 @@ export const socials = {
 export const about = {
     aboutMe:
         "Salem wa aleikoum, I am Souleyman ...",
-    hobbies: ["Basketball", "Chess", "Hiking", "Swimming"],
+    hobbies: ["Basketball","Lecture","Courir","Passer des bons moments entre amis", "profiter de mon temps libre", "la discipline"],
     quote: "Write code that changes Lives...",
     skills: [
         "nextjs",

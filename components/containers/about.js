@@ -9,7 +9,7 @@ export default function About() {
                 <section className="about">
                     <div className="content">
                         <h1>
-                            Know Who <span> I Am </span>
+                            Sachez qui <span> Je suis </span>
                         </h1>
                         <p>{about.aboutMe}</p>
 
