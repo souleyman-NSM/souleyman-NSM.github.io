@@ -53,7 +53,7 @@ export default function Main() {
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            View Resume
+                            Voir CV
                         </a>
                     </button>
                 </p>
