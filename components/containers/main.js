@@ -24,7 +24,7 @@ export default function Main() {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <button>Architecte en Ingénierie Système Réseau Diplôme</button>
+                        <button>Diplôme 🌩️ Architecte en Ingénierie Système Réseau</button>
                     </a>
                 </div>
                 <div className="icons">
