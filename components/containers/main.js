@@ -24,21 +24,21 @@ export default function Main() {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <button>CONTACT ME</button>
+                        <button>Architecte en Ingénierie Système Réseau Diplôme</button>
                     </a>
                 </div>
                 <div className="icons">
                     <SocialIcons
-                        link={'https://twitter.com/' + socials.twitter}
-                        icon={'fab fa-twitter'}
+                        link={'https://gitlab.com/yacef_s' + socials.twitter}
+                        icon={'fab fa-gitlab'}
                     />
                     <SocialIcons
-                        link={'https://github.com/' + socials.github}
+                        link={'https://github.com/souleyman-NSM' + socials.github}
                         icon={'fab fa-github'}
                     />
                     <SocialIcons
                         link={'https://www.instagram.com/' + socials.instagram}
-                        icon={'fab fa-instagram'}
+                        icon={'https://www.linkedin.com/in/souleyman-yacef-1071421a1/'}
                     />
                 </div>
             </div>
