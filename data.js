@@ -9,9 +9,9 @@ export const home = {
 
 export const socials = {
     // Only usernames.
-    twitter: "soulax",
+    gitlab: "soulax",
     github: "soulax",
-    instagram: "__souleyman__"
+    linkedin: "__souleyman__"
 };
 
 export const about = {

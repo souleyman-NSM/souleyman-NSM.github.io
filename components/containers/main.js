@@ -29,7 +29,7 @@ export default function Main() {
                 </div>
                 <div className="icons">
                     <SocialIcons
-                        link={'https://gitlab.com/yacef_s' + socials.twitter}
+                        link={'https://gitlab.com/yacef_s' + socials.gitlab}
                         icon={'fab fa-gitlab'}
                     />
                     <SocialIcons
@@ -37,8 +37,8 @@ export default function Main() {
                         icon={'fab fa-github'}
                     />
                     <SocialIcons
-                        link={'https://www.instagram.com/' + socials.instagram}
-                        icon={'https://www.linkedin.com/in/souleyman-yacef-1071421a1/'}
+                        link={'https://www.linkedin.com/in/souleyman-yacef-1071421a1' + socials.linkedin}
+                        icon={'fab fa-linkedin'}
                     />
                 </div>
             </div>
