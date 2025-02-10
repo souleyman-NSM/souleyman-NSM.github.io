@@ -10,14 +10,24 @@ export const home = {
 
 export const socials = {
     // Only usernames.
+<<<<<<< HEAD
     twitter: "",
     github: "",
     instagram: ""
+=======
+    gitlab: "soulax",
+    github: "soulax",
+    instagram: "__souleyman__"
+>>>>>>> 40eeada (sqd)
 };
 
 export const about = {
     aboutMe:
+<<<<<<< HEAD
         "Salem wa aleikoum, I am Souleyman",
+=======
+        "....",
+>>>>>>> 40eeada (sqd)
     hobbies: ["Basketball", "Chess", "Hiking", "Swimming"],
     quote: "Write code that changes Lives...",
     skills: [

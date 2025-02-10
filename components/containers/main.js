@@ -29,16 +29,16 @@ export default function Main() {
                 </div>
                 <div className="icons">
                     <SocialIcons
-                        link={"https://twitter.com/" + socials.twitter}
-                        icon={"fab fa-twitter"}
+                        link={"https://gitlab.com/yacef_s" + socials.gitlab}
+                        icon={"fab fa-gitlab"}
                     />
                     <SocialIcons
-                        link={"https://github.com/" + socials.github}
+                        link={"https://github.com/souleyman-NSM" + socials.github}
                         icon={"fab fa-github"}
                     />
                     <SocialIcons
-                        link={"https://www.instagram.com/" + socials.instagram}
-                        icon={"fab fa-instagram"}
+                        link={"https://www.linkedin.com/in/souleyman-yacef-1071421a1" + socials.linkedin}
+                        icon={"fab fa-linkedin"}
                     />
                 </div>
             </div>
